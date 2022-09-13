@@ -1,0 +1,34 @@
+{
+  "name": "learn-mern-stack",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon  --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phattd/emart-nodejs.git"
+  },
+  "keywords": [
+    "git",
+    "nodejs",
+    "phattd-nodejs",
+    "mern",
+    "stack",
+    "nodejs"
+  ],
+  "author": "phattd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phattd/emart-nodejs/issues"
+  },
+  "homepage": "https://github.com/phattd/emart-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
